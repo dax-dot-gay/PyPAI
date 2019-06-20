@@ -4,3 +4,8 @@ Python Package Automated Installer - GUI-Based package manager and browser for P
 Requires PyQt5, requests, bs4
 
 Self-contained MSWindows EXE is WIP
+
+---
+
+# Screenshots
+![Screenshot]
